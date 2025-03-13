@@ -1,2 +1,4 @@
 '''esta desactualizado, pruba actualizar en git desktop'''
 ''' para probar nuevament e como hacer un pull desde consola '''
+'''tercer cmabio apra revisar'''
+
